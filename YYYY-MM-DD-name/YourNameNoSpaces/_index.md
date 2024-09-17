@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Your Name
+title: Your Name
 
 authors:
 - YourNameNoSpaces
@@ -16,23 +16,24 @@ organizations:
   url: "https://fsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2019.
+bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2022.
 
 interests:
-
-education:
+# - point form
 
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/<!-- your github username -->
+# add these accounts if you would like
+# - icon: instagram
+#  icon_pack: fab
+#  link: https://instragram.com/<!-- your username -->
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/<!-- your username -->
 
 user_groups:
 - Writers
 ---
-The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2019.
-
-
+The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2022.
